@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--activity_giris_yap_xml -->
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+
+
+</resources>

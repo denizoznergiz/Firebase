@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseUygulama</string>
+
+    <!--activity_girisyap_xml-->
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="bu_alan_zorunlu">Bu alan zorunludur.</string>
+    <string name="gecersiz_eposta">Geçersiz E-Posta</string>
+    <string name="min_6_chars">En az 6 akarakter olmalıdır.</string>
+    <string name="kayitbasarili">Kayıt başarıyla gerçekleşti.Giriş yapabilirsiniz.</string>
+    <string name="hata">Hata oluştu.Hata mesajı:</string>
+    <string name="girisbasarili">Giriş başarılı</string>
+    <string name="cikisyap">Çıkış yap</string>
+
+</resources>
